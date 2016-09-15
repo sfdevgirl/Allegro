@@ -1,6 +1,6 @@
 //*****************
 
-//Project Name: In class game assignment
+//Project Name: In Class Game Assignment
 
 //Project Description: Classes with Allegro
 
