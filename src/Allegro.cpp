@@ -1,10 +1,24 @@
-//============================================================================
-// Name        : Allegro.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+//*****************
+
+//Project Name: In class game assignment
+
+//Project Description: Classes with Allegro
+
+//Project Author: Smith, Shannon
+
+//Is this an extra credit Project:  Yes
+
+//Date completed:09/15/2016
+
+//Operating system used: Windows
+
+//IDE Used:  Eclipse
+
+//*****************
+
+
+
+
 #include <iostream>
 using namespace std;
 #include "screen.hpp"
